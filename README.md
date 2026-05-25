@@ -1,7 +1,7 @@
-# 💻 widads | Desarrollador Web & Especialista en Bases de Datos
+# 💻 Widad Serghini Messoud | Desarrollador Web & Especialista en Bases de Datos
 
 ## 🌿 Sobre mí
-Hola, soy widads. Actualmente estoy cursando el ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**. Dentro del ecosistema del desarrollo de software, mi verdadera pasión se encuentra en el **diseño, optimización y gestión de Bases de Datos Relacionales**. Me encanta estructurar la información de manera eficiente y exprimir el potencial del lenguaje SQL para resolver problemas complejos de lógica de negocio.
+Hola, soy Widad. Actualmente estoy cursando el ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**. Dentro del ecosistema del desarrollo de software, mi verdadera pasión se encuentra en el **diseño, optimización y gestión de Bases de Datos Relacionales**. Me encanta estructurar la información de manera eficiente y exprimir el potencial del lenguaje SQL para resolver problemas complejos de lógica de negocio.
 
 * 🔍 **Mi enfoque:** Modelado de datos, optimización de consultas y automatización en el lado del servidor.
 * 🛠️ **Filosofía de trabajo:** "Un código limpio está bien, pero una base de datos bien estructurada es el motor de cualquier aplicación exitosa."
