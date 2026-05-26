@@ -1,4 +1,4 @@
-# 💻 Widad S | Desarrollador Web & Especialista en Bases de Datos
+# 💻 Widad S | Desarrolladora Web & Especialista en Bases de Datos
 
 ## 🌿 Sobre mí
 Hola, soy Widad. Actualmente estoy cursando el ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**. Dentro del ecosistema del desarrollo de software, mi verdadera pasión se encuentra en el **diseño, optimización y gestión de Bases de Datos Relacionales**. Me encanta estructurar la información de manera eficiente y exprimir el potencial del lenguaje SQL para resolver problemas complejos de lógica de negocio.
